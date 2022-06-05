@@ -2,8 +2,7 @@ $h1-color: #fff;
 
 body {
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif
-    ;
+    font-family: 'Roboto', sans-serif;
 }
 /* ponizej to selektor */
 header{ 
@@ -16,4 +15,5 @@ header{
 }
 header h1 {
     color: $h1-color;
+    font-weight: normal;
 }
